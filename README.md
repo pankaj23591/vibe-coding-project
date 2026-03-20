@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # vibe-coding-project
 vibe-coding-project
 =======
 # README #
 =======
 # Call Intelligence Platform
->>>>>>> update file
 
 Prototype **AI-powered sales call analytics**: upload audio, get transcripts, sentiment, agent scores, discovery coverage, keywords, and follow-up action items. Built for rapid **Vibe Coding** iteration (Next.js + optional OpenAI).
 
@@ -41,11 +38,9 @@ flowchart LR
 
 **Requirements:** Node.js 18+, **MySQL 5.7+** (or MariaDB 10.2+) with a database and user that can create tables.
 
-<<<<<<< HEAD
 * Repo owner or admin
 * Other community or team contact
->>>>>>> Initial commit
-=======
+
 ```bash
 # Create DB if needed (see scripts/mysql-init.sql)
 cp .env.example .env.local
@@ -120,4 +115,3 @@ PROMPT_LOG.md             # Fill in for hackathon deliverable
 ## License
 
 Use and modify for the hackathon submission.
->>>>>>> update file
