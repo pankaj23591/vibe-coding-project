@@ -1,0 +1,255 @@
+{
+  "id": "1773981960053-pb2huf63",
+  "createdAt": "2026-03-20T04:46:00.053Z",
+  "originalFilename": "Call-2.wav",
+  "audioRelativePath": "uploads/1773981960053-pb2huf63.wav",
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "Hi Jessica, this is Daniel from Premier Kitchen Cabinets.",
+      "startSec": 0,
+      "endSec": 3.759999990463257
+    },
+    {
+      "speaker": "customer",
+      "text": "I'm calling regarding the cabinet design consultation you requested.",
+      "startSec": 3.759999990463257,
+      "endSec": 7.840000152587891
+    },
+    {
+      "speaker": "agent",
+      "text": "Hi Daniel. Yes, thanks for calling.",
+      "startSec": 7.840000152587891,
+      "endSec": 10.319999694824219
+    },
+    {
+      "speaker": "customer",
+      "text": "I reviewed the measurements you submitted.",
+      "startSec": 10.319999694824219,
+      "endSec": 12.399999618530273
+    },
+    {
+      "speaker": "agent",
+      "text": "Your kitchen layout looks great for a modern design.",
+      "startSec": 12.399999618530273,
+      "endSec": 15.279999732971191
+    },
+    {
+      "speaker": "customer",
+      "text": "That's good to hear.",
+      "startSec": 15.279999732971191,
+      "endSec": 16.559999465942383
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me ask a few questions to understand your preferences better.",
+      "startSec": 16.559999465942383,
+      "endSec": 20
+    },
+    {
+      "speaker": "customer",
+      "text": "Are you looking for a modern look, traditional, or something in between?",
+      "startSec": 20.559999465942383,
+      "endSec": 24.559999465942383
+    },
+    {
+      "speaker": "agent",
+      "text": "Probably modern, but not too minimal.",
+      "startSec": 24.559999465942383,
+      "endSec": 27.440000534057617
+    },
+    {
+      "speaker": "customer",
+      "text": "Got it. That would fall under transitional design.",
+      "startSec": 27.440000534057617,
+      "endSec": 30.719999313354492
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, that sounds right.",
+      "startSec": 30.719999313354492,
+      "endSec": 32.08000183105469
+    },
+    {
+      "speaker": "customer",
+      "text": "Are you planning upper cabinets across the entire wall, or do you want some open shelving?",
+      "startSec": 32.08000183105469,
+      "endSec": 36.880001068115234
+    },
+    {
+      "speaker": "agent",
+      "text": "I actually like open shelves.",
+      "startSec": 36.880001068115234,
+      "endSec": 39.119998931884766
+    },
+    {
+      "speaker": "customer",
+      "text": "They can look very stylish, but they do require more organization.",
+      "startSec": 39.119998931884766,
+      "endSec": 43.439998626708984
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, that's the only thing I'm worried about.",
+      "startSec": 43.439998626708984,
+      "endSec": 46.31999969482422
+    },
+    {
+      "speaker": "customer",
+      "text": "What many homeowners do is combine both,",
+      "startSec": 46.31999969482422,
+      "endSec": 48.959999084472656
+    },
+    {
+      "speaker": "agent",
+      "text": "upper cabinets on most walls and a small open shelf section for decor.",
+      "startSec": 48.959999084472656,
+      "endSec": 53.119998931884766
+    },
+    {
+      "speaker": "customer",
+      "text": "That could work.",
+      "startSec": 53.119998931884766,
+      "endSec": 54.400001525878906
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you interested in glass cabinet doors as well?",
+      "startSec": 54.400001525878906,
+      "endSec": 57.040000915527344
+    },
+    {
+      "speaker": "customer",
+      "text": "Maybe for a couple cabinets.",
+      "startSec": 57.040000915527344,
+      "endSec": 58.720001220703125
+    },
+    {
+      "speaker": "agent",
+      "text": "That's a great choice because it breaks up the solid cabinet look.",
+      "startSec": 59.36000061035156,
+      "endSec": 62.560001373291016
+    },
+    {
+      "speaker": "customer",
+      "text": "Exactly.",
+      "startSec": 62.560001373291016,
+      "endSec": 63.599998474121094
+    },
+    {
+      "speaker": "agent",
+      "text": "Let's talk about hardware.",
+      "startSec": 63.599998474121094,
+      "endSec": 64.87999725341797
+    },
+    {
+      "speaker": "customer",
+      "text": "Do you prefer handles, knobs, or handle-less cabinets?",
+      "startSec": 64.87999725341797,
+      "endSec": 68.4000015258789
+    },
+    {
+      "speaker": "agent",
+      "text": "Probably handles.",
+      "startSec": 68.4000015258789,
+      "endSec": 69.68000030517578
+    },
+    {
+      "speaker": "customer",
+      "text": "Brushed nickel or matte black are the most popular right now.",
+      "startSec": 71.12000274658203,
+      "endSec": 74.4800033569336
+    },
+    {
+      "speaker": "agent",
+      "text": "I like matte black.",
+      "startSec": 74.4800033569336,
+      "endSec": 75.83999633789062
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. That pairs really well with white cabinets.",
+      "startSec": 75.83999633789062,
+      "endSec": 78.87999725341797
+    },
+    {
+      "speaker": "agent",
+      "text": "Great.",
+      "startSec": 78.87999725341797,
+      "endSec": 79.5999984741211
+    },
+    {
+      "speaker": "customer",
+      "text": "I'll prepare two design options, one with open shelves and one fully closed.",
+      "startSec": 79.5999984741211,
+      "endSec": 83.83999633789062
+    }
+  ],
+  "analysis": {
+    "summary": "Daniel from Premier Kitchen Cabinets spoke with Jessica about her cabinet design preferences. They discussed various design elements, including cabinet styles, hardware choices, and the combination of open shelves with upper cabinets. Jessica expressed her interest in a modern yet transitional design and agreed to receive two design options for her kitchen.",
+    "sentiment": "positive",
+    "overallScore": 8,
+    "agentTalkPct": 45,
+    "customerTalkPct": 55,
+    "durationSec": 300,
+    "keywords": [
+      "cabinet design",
+      "modern style",
+      "open shelving",
+      "hardware",
+      "transitional design",
+      "consultation",
+      "preferences",
+      "design options"
+    ],
+    "actionItems": [
+      "Prepare two design options for Jessica",
+      "Follow up with Jessica after design options are prepared"
+    ],
+    "positiveObservations": [
+      "Agent was knowledgeable about design options.",
+      "Customer engaged positively with the agent.",
+      "Both parties communicated effectively about preferences."
+    ],
+    "negativeObservations": [
+      "No significant negative observations noted."
+    ],
+    "questionnaire": [
+      {
+        "topic": "Budget Discussion",
+        "asked": false
+      },
+      {
+        "topic": "Competitor Comparison",
+        "asked": false
+      },
+      {
+        "topic": "Kitchen Size / Scope",
+        "asked": false
+      },
+      {
+        "topic": "Cabinet Style Preference",
+        "asked": true
+      },
+      {
+        "topic": "Remodeling Full Kitchen?",
+        "asked": false
+      },
+      {
+        "topic": "Timeline & Milestones",
+        "asked": false
+      },
+      {
+        "topic": "Decision Makers",
+        "asked": false
+      }
+    ],
+    "agentScores": {
+      "clarity": 8,
+      "politeness": 9,
+      "businessKnowledge": 8,
+      "problemHandling": 7,
+      "listening": 8
+    }
+  }
+}

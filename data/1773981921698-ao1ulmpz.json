@@ -1,0 +1,312 @@
+{
+  "id": "1773981921698-ao1ulmpz",
+  "createdAt": "2026-03-20T04:45:21.698Z",
+  "originalFilename": "Call-1.mp3",
+  "audioRelativePath": "uploads/1773981921698-ao1ulmpz.mp3",
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "Hi Michael, this is Kristen calling from Premier Kitchen Cabinets.",
+      "startSec": 0,
+      "endSec": 5
+    },
+    {
+      "speaker": "customer",
+      "text": "I'm reaching out about the inquiry you submitted on our website regarding kitchen cabinets.",
+      "startSec": 5,
+      "endSec": 10
+    },
+    {
+      "speaker": "agent",
+      "text": "Is now still a good time to talk for a few minutes?",
+      "startSec": 10,
+      "endSec": 13
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, this works. Thanks for calling back.",
+      "startSec": 13,
+      "endSec": 17
+    },
+    {
+      "speaker": "agent",
+      "text": "Great, perfect. So, just to start off, could you tell me a little bit about the project?",
+      "startSec": 17,
+      "endSec": 23
+    },
+    {
+      "speaker": "customer",
+      "text": "Are you planning a full kitchen remodel or are you mainly looking to replace the cabinets?",
+      "startSec": 23,
+      "endSec": 28
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, we're actually remodeling the whole kitchen. The cabinets are probably the biggest part of it though.",
+      "startSec": 28,
+      "endSec": 34
+    },
+    {
+      "speaker": "customer",
+      "text": "Got it. Okay, that makes sense. And is this for your primary home or is it maybe a rental property?",
+      "startSec": 34,
+      "endSec": 42
+    },
+    {
+      "speaker": "agent",
+      "text": "No, it's our primary home.",
+      "startSec": 42,
+      "endSec": 44
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Yeah, that definitely helps because we usually recommend slightly different materials depending on how the kitchen is being used.",
+      "startSec": 44,
+      "endSec": 52
+    },
+    {
+      "speaker": "agent",
+      "text": "Do you happen to know roughly the size of the kitchen?",
+      "startSec": 52,
+      "endSec": 56
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, it's about around 12 by 15 feet, roughly.",
+      "startSec": 56,
+      "endSec": 62
+    },
+    {
+      "speaker": "agent",
+      "text": "Oh, nice. That's actually a really good size kitchen. Do you currently have an L-shaped layout, a U-shape or something else?",
+      "startSec": 62,
+      "endSec": 71
+    },
+    {
+      "speaker": "customer",
+      "text": "Right now it's an L-shape.",
+      "startSec": 71,
+      "endSec": 73
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay, got it. And are you planning to keep the same layout or are you thinking about changing things up a little?",
+      "startSec": 73,
+      "endSec": 81
+    },
+    {
+      "speaker": "customer",
+      "text": "I might change it slightly. My wife really wants to add an island.",
+      "startSec": 81,
+      "endSec": 86
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, that's a very common request lately. Kitchen islands are extremely popular right now because they give you extra storage and also seating space.",
+      "startSec": 86,
+      "endSec": 96
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, exactly. That's kind of the main reason we want one.",
+      "startSec": 96,
+      "endSec": 100
+    },
+    {
+      "speaker": "agent",
+      "text": "Makes sense. When it comes to cabinet styles, have you seen anything online that you like so far?",
+      "startSec": 101,
+      "endSec": 107
+    },
+    {
+      "speaker": "customer",
+      "text": "Maybe shaker cabinets, flat panel or more traditional raised panel designs?",
+      "startSec": 107,
+      "endSec": 114
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, I've mostly been looking online and I keep coming back to shaker cabinets. I think those look pretty good.",
+      "startSec": 114,
+      "endSec": 122
+    },
+    {
+      "speaker": "customer",
+      "text": "Great choice, actually. Shaker is probably our most popular cabinet style. It works really well with modern kitchens and also transitional designs.",
+      "startSec": 122,
+      "endSec": 133
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, that sounds good.",
+      "startSec": 133,
+      "endSec": 135
+    },
+    {
+      "speaker": "customer",
+      "text": "Do you have any color preference yet? Maybe white, gray, navy or natural wood tones?",
+      "startSec": 135,
+      "endSec": 142
+    },
+    {
+      "speaker": "agent",
+      "text": "Hmm, probably white.",
+      "startSec": 142,
+      "endSec": 145
+    },
+    {
+      "speaker": "customer",
+      "text": "White shaker cabinets are a classic choice. A lot of homeowners also pair them with a contrasting island color, like navy or gray. It adds a really nice visual balance.",
+      "startSec": 145,
+      "endSec": 158
+    },
+    {
+      "speaker": "agent",
+      "text": "Oh, yeah. Actually, that sounds pretty nice.",
+      "startSec": 158,
+      "endSec": 161
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, it tends to look really sharp. Do you already have a general budget range in mind for the cabinets?",
+      "startSec": 161,
+      "endSec": 168
+    },
+    {
+      "speaker": "agent",
+      "text": "Uh, I was hoping to stay somewhere around $10,000 to $12,000.",
+      "startSec": 168,
+      "endSec": 173
+    },
+    {
+      "speaker": "customer",
+      "text": "That's actually a very reasonable range for a kitchen that size.",
+      "startSec": 174,
+      "endSec": 178
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay, good. That's good to know.",
+      "startSec": 178,
+      "endSec": 181
+    },
+    {
+      "speaker": "customer",
+      "text": "What I'd recommend as the next step is scheduling a design consultation.",
+      "startSec": 181,
+      "endSec": 186
+    },
+    {
+      "speaker": "agent",
+      "text": "One of our designers would review your layout and prepare a 3D kitchen design so you can actually see how everything would look.",
+      "startSec": 186,
+      "endSec": 194
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, that would definitely help.",
+      "startSec": 194,
+      "endSec": 197
+    },
+    {
+      "speaker": "agent",
+      "text": "Perfect. What I'll do is send you a calendar link so you can pick a time that works best for you.",
+      "startSec": 197,
+      "endSec": 202
+    },
+    {
+      "speaker": "customer",
+      "text": "Sounds good.",
+      "startSec": 202,
+      "endSec": 204
+    },
+    {
+      "speaker": "agent",
+      "text": "Awesome. Michael, it was really nice talking with you today. I'll send that over shortly and we'll go from there.",
+      "startSec": 204,
+      "endSec": 211
+    },
+    {
+      "speaker": "customer",
+      "text": "Great. Thanks again for the call.",
+      "startSec": 211,
+      "endSec": 213
+    },
+    {
+      "speaker": "agent",
+      "text": "Bye.",
+      "startSec": 213,
+      "endSec": 214
+    }
+  ],
+  "analysis": {
+    "summary": "The agent, Kristen, called Michael to discuss his inquiry about kitchen cabinets for a full kitchen remodel in his primary home. They discussed the kitchen's size, layout, and cabinet style preferences, with Michael expressing interest in shaker cabinets and a budget of $10,000 to $12,000. Kristen suggested scheduling a design consultation to create a 3D kitchen design, which Michael agreed to.",
+    "sentiment": "positive",
+    "overallScore": 9,
+    "agentTalkPct": 55,
+    "customerTalkPct": 45,
+    "durationSec": 300,
+    "keywords": [
+      "kitchen remodel",
+      "cabinets",
+      "shaker style",
+      "design consultation",
+      "budget",
+      "layout",
+      "island",
+      "color preference"
+    ],
+    "actionItems": [
+      "Send calendar link for design consultation"
+    ],
+    "positiveObservations": [
+      "Agent was polite and professional.",
+      "Agent provided relevant information about cabinet styles.",
+      "Customer was engaged and responsive.",
+      "Next steps were clearly outlined."
+    ],
+    "negativeObservations": [
+      "Agent could have asked more probing questions about the project.",
+      "Customer's responses were somewhat brief.",
+      "No specific timeline for the remodel was discussed.",
+      "Agent did not confirm the customer's decision makers."
+    ],
+    "questionnaire": [
+      {
+        "topic": "Budget Discussion",
+        "asked": true
+      },
+      {
+        "topic": "Competitor Comparison",
+        "asked": false
+      },
+      {
+        "topic": "Kitchen Size / Scope",
+        "asked": true
+      },
+      {
+        "topic": "Cabinet Style Preference",
+        "asked": true
+      },
+      {
+        "topic": "Remodeling Full Kitchen?",
+        "asked": true
+      },
+      {
+        "topic": "Timeline & Milestones",
+        "asked": false
+      },
+      {
+        "topic": "Decision Makers",
+        "asked": false
+      }
+    ],
+    "agentScores": {
+      "clarity": 9,
+      "politeness": 10,
+      "businessKnowledge": 8,
+      "problemHandling": 8,
+      "listening": 9
+    }
+  }
+}

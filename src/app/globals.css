@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --surface: 15 18 28;
+  --surface-muted: 24 29 44;
+  --ink: 241 245 249;
+  --ink-muted: 148 163 184;
+  --accent: 99 102 241;
+  --positive: 52 211 153;
+  --caution: 251 191 36;
+  --negative: 248 113 113;
+}
+
+body {
+  @apply min-h-screen bg-surface text-ink antialiased;
+  background-image: radial-gradient(
+      ellipse 80% 60% at 50% -20%,
+      rgb(49 46 129 / 0.35),
+      transparent
+    ),
+    radial-gradient(ellipse 60% 40% at 100% 0%, rgb(30 58 138 / 0.2), transparent);
+}
